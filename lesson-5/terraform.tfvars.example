@@ -1,0 +1,2 @@
+aws_account_id    = "000000000000"
+state_bucket_name = "diagnosel-lesson-5-state-replace-with-unique-suffix"

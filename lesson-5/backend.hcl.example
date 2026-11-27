@@ -1,0 +1,2 @@
+bucket              = "diagnosel-lesson-5-state-replace-with-unique-suffix"
+allowed_account_ids = ["000000000000"]
